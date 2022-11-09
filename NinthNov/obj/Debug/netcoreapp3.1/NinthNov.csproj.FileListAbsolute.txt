@@ -1,0 +1,14 @@
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.exe
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.deps.json
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.runtimeconfig.json
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.runtimeconfig.dev.json
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.dll
+C:\Users\107012\source\repos\NinthNov\NinthNov\bin\Debug\netcoreapp3.1\NinthNov.pdb
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.csproj.AssemblyReference.cache
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.AssemblyInfoInputs.cache
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.AssemblyInfo.cs
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.csproj.CoreCompileInputs.cache
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.dll
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.pdb
+C:\Users\107012\source\repos\NinthNov\NinthNov\obj\Debug\netcoreapp3.1\NinthNov.genruntimeconfig.cache
